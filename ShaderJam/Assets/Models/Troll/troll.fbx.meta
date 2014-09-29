@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 0f927ac13c9222d42abd9c97a1f01446
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: _
+    100002: Capsule01
+    100004: Capsule02
+    100006: MagicEffectsNode
+    100008: NPC Brow [Brow]
+    100010: NPC COM [COM ]
+    100012: NPC Eyes [Eyes]
+    100014: NPC Head [Head]
+    100016: NPC Head MagicNode [Hmag]
+    100018: NPC Jaw [Jaw]
+    100020: NPC L Calf [LClf]
+    100022: NPC L Clavicle [LClv]
+    100024: NPC L Finger00 [LF00]
+    100026: NPC L Finger01 [LF01]
+    100028: NPC L Finger10 [LF10]
+    100030: NPC L Finger11 [LF11]
+    100032: NPC L Finger20 [LF20]
+    100034: NPC L Finger21 [LF21]
+    100036: NPC L Foot [Lft ]
+    100038: NPC L FootBox
+    100040: NPC L Forearm [LLar]
+    100042: NPC L ForearmTwist1 [LLt1]
+    100044: NPC L ForearmTwist2 [LLt2]
+    100046: NPC L Hand [LHnd]
+    100048: NPC L HeelPivot
+    100050: NPC L Pauldron
+    100052: NPC L Thigh [LThg]
+    100054: NPC L Toe0 [LToe]
+    100056: NPC L ToePivot
+    100058: NPC L UpperArm [LUar]
+    100060: NPC L UpperarmTwist1 [LUt1]
+    100062: NPC L UpperarmTwist2 [LUt2]
+    100064: NPC LEye [EyeL]
+    100066: NPC Lip1 [Lip1]
+    100068: NPC Lip2 [Lip2]
+    100070: NPC Neck [Neck]
+    100072: NPC Pelvis [Pelv]
+    100074: NPC R Calf [RClf]
+    100076: NPC R Clavicle [RClv]
+    100078: NPC R Finger00 [RF00]
+    100080: NPC R Finger01 [RF01]
+    100082: NPC R Finger10 [RF10]
+    100084: NPC R Finger11 [RF11]
+    100086: NPC R Finger20 [RF20]
+    100088: NPC R Finger21 [RF21]
+    100090: NPC R Foot [Rft ]
+    100092: NPC R FootBox
+    100094: NPC R Forearm [RLar]
+    100096: NPC R ForearmTwist1 [RLt1]
+    100098: NPC R ForearmTwist2 [RLt2]
+    100100: NPC R Hand [RHnd]
+    100102: NPC R HeelPivot
+    100104: NPC R MagicNode [RMag]
+    100106: NPC R Pauldron
+    100108: NPC R Thigh [RThg]
+    100110: NPC R Toe0 [RToe]
+    100112: NPC R ToePivot
+    100114: NPC R UpperArm [RUar]
+    100116: NPC R UpperarmTwist1 [RUt1]
+    100118: NPC R UpperarmTwist2 [RUt2]
+    100120: NPC REye [EyeR]
+    100122: NPC Root [Root]
+    100124: NPC Spine [Spn0]
+    100126: NPC Spine1 [Spn1]
+    100128: NPC Spine2 [Spn2]
+    100130: NPC UEye [EyeU]
+    100132: SHIELD
+    100134: //RootNode
+    100136: Troll Frost:0
+    100138: Troll Frost:1
+    100140: WEAPON
+    100142: WeaponBack
+    400000: _
+    400002: Capsule01
+    400004: Capsule02
+    400006: MagicEffectsNode
+    400008: NPC Brow [Brow]
+    400010: NPC COM [COM ]
+    400012: NPC Eyes [Eyes]
+    400014: NPC Head [Head]
+    400016: NPC Head MagicNode [Hmag]
+    400018: NPC Jaw [Jaw]
+    400020: NPC L Calf [LClf]
+    400022: NPC L Clavicle [LClv]
+    400024: NPC L Finger00 [LF00]
+    400026: NPC L Finger01 [LF01]
+    400028: NPC L Finger10 [LF10]
+    400030: NPC L Finger11 [LF11]
+    400032: NPC L Finger20 [LF20]
+    400034: NPC L Finger21 [LF21]
+    400036: NPC L Foot [Lft ]
+    400038: NPC L FootBox
+    400040: NPC L Forearm [LLar]
+    400042: NPC L ForearmTwist1 [LLt1]
+    400044: NPC L ForearmTwist2 [LLt2]
+    400046: NPC L Hand [LHnd]
+    400048: NPC L HeelPivot
+    400050: NPC L Pauldron
+    400052: NPC L Thigh [LThg]
+    400054: NPC L Toe0 [LToe]
+    400056: NPC L ToePivot
+    400058: NPC L UpperArm [LUar]
+    400060: NPC L UpperarmTwist1 [LUt1]
+    400062: NPC L UpperarmTwist2 [LUt2]
+    400064: NPC LEye [EyeL]
+    400066: NPC Lip1 [Lip1]
+    400068: NPC Lip2 [Lip2]
+    400070: NPC Neck [Neck]
+    400072: NPC Pelvis [Pelv]
+    400074: NPC R Calf [RClf]
+    400076: NPC R Clavicle [RClv]
+    400078: NPC R Finger00 [RF00]
+    400080: NPC R Finger01 [RF01]
+    400082: NPC R Finger10 [RF10]
+    400084: NPC R Finger11 [RF11]
+    400086: NPC R Finger20 [RF20]
+    400088: NPC R Finger21 [RF21]
+    400090: NPC R Foot [Rft ]
+    400092: NPC R FootBox
+    400094: NPC R Forearm [RLar]
+    400096: NPC R ForearmTwist1 [RLt1]
+    400098: NPC R ForearmTwist2 [RLt2]
+    400100: NPC R Hand [RHnd]
+    400102: NPC R HeelPivot
+    400104: NPC R MagicNode [RMag]
+    400106: NPC R Pauldron
+    400108: NPC R Thigh [RThg]
+    400110: NPC R Toe0 [RToe]
+    400112: NPC R ToePivot
+    400114: NPC R UpperArm [RUar]
+    400116: NPC R UpperarmTwist1 [RUt1]
+    400118: NPC R UpperarmTwist2 [RUt2]
+    400120: NPC REye [EyeR]
+    400122: NPC Root [Root]
+    400124: NPC Spine [Spn0]
+    400126: NPC Spine1 [Spn1]
+    400128: NPC Spine2 [Spn2]
+    400130: NPC UEye [EyeU]
+    400132: SHIELD
+    400134: //RootNode
+    400136: Troll Frost:0
+    400138: Troll Frost:1
+    400140: WEAPON
+    400142: WeaponBack
+    4300000: Troll Frost:0
+    4300002: Troll Frost:1
+    9500000: //RootNode
+    13700000: Troll Frost:0
+    13700002: Troll Frost:1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

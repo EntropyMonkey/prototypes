@@ -1,0 +1,10 @@
+ShaderJam/Library/
+ShaderJam/Assets/Standard Assets/
+*.sln
+*.userprefs
+*.suo
+ShaderJam/Temp/UnityLockfile
+ShaderJam/Temp/
+ShaderJam/obj/
+*.csproj
+QR Code/Library/
